@@ -1,3 +1,6 @@
+# danki-code-projeto-mean-stack
+Projeto abrangendo conjunto de tecnologias com mais oportunidades no mercado! O conjunto MEAN STACK (mongo, express, angular, node).
+
 # ProjetoMeanStackMarmitaria
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
